@@ -15,7 +15,7 @@ The project builds on practical experience in text annotation, linguistic evalua
 - Python
 - pandas
 - scikit-learn
-- nltk (or spaCy)
+- nltk
 - matplotlib
 
 ## Project Structure
@@ -28,7 +28,7 @@ The project builds on practical experience in text annotation, linguistic evalua
 6. Performance evaluation and error analysis
 
 ## Results
-- [À compléter : accuracy, principales observations sur les erreurs, différences FR/EN si tu en observes]
+- To be completed after analysis
 
 ## How to Run
 1. Clone the repository
@@ -37,11 +37,6 @@ The project builds on practical experience in text annotation, linguistic evalua
 3. Open and run the notebook
 
 ## Author
-Sedjro Josias Soglonon  
-Applied Economics Graduate | Aspiring Data Scientist
-pandas
-numpy
-scikit-learn
-nltk
-matplotlib
-jupyter
+**Sedjro Josias Soglonon**  
+Applied Economics Graduate | Aspiring Data Scientist  
+GitHub: [sedjro-josias](https://github.com/sedjro-josias)
